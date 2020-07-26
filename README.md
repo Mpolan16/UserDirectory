@@ -14,14 +14,14 @@ The Employee Directory is the simplest way to view all employees at once and hav
 
 
 ## Usage
-Deployed App:
+https://mpolan16.github.io/employee-directory/
 
 Thumbnail:
 
 
 ## Technology
 
-React.js, JavaScript, Express, Mongo, Mongoose, Node.js, JSX, CSS, and HTML.
+React.js, JavaScript, Express, Node.js, JSX, CSS, HTML, and randomuser.me API.
 
 ## Questions
 
