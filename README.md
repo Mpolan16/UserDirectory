@@ -16,7 +16,7 @@ The Employee Directory is the simplest way to view all employees at once and hav
 ## Usage
 https://mpolan16.github.io/employee-directory/
 
-Thumbnail:
+![thumbnail of app](./public/Thumbnail.png)
 
 
 ## Technology
