@@ -16,7 +16,7 @@ The Employee Directory is the simplest way to view all employees at once and hav
 ## Usage
 Deployed App:
 
-Thumbnail:
+![thumbnail of app](./public/Thumbnail.png)
 
 
 ## Technology
